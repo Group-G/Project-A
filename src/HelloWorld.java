@@ -4,6 +4,7 @@ public class HelloWorld {
         // Prints "Hello, World" to the terminal window.
         System.out.println("William Schwartz");
         System.out.println("Dylan McKillip");
+        System.out.println("Alazar Genene");
     }
 
 }
