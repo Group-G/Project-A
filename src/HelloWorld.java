@@ -7,5 +7,4 @@ public class HelloWorld {
         System.out.println("Dylan McKillip");
         System.out.println("Alazar Genene");
     }
-
 }
