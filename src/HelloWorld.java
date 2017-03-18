@@ -9,5 +9,6 @@ public class HelloWorld {
         System.out.println("Brian Copeland");
         System.out.println("Eric Peterson");
 		System.out.println("Daniel McDonough");
+		System.out.println("Samantha Comeau");
     }
 }
